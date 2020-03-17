@@ -1,12 +1,12 @@
 login = ''					#sender's mail
-password = ''				#password
+password = ''					#password
 victim = ''					#mail of your 'enemy'
-mstype = 'html'				#type of message content
+mstype = 'html'					#type of message content
 amount = 1					#amount of messages
 subject = 'Почему...'
 
 
-#example massage
+#massage example 
 
 message = '''
 	<h1>Ну шо, ебать, атакуй!</h1>
